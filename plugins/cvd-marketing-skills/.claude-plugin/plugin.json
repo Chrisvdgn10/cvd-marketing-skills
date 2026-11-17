@@ -1,7 +1,7 @@
 {
   "name": "cvd-marketing-skills",
-  "version": "0.2.0",
-  "description": "16 skills marketing sélectionnés : contexte client, positionnement, ads (créa, Meta, TikTok, budget gaspillé), réseaux sociaux, montage vidéo et sous-titres, GEO, CRO, copywriting, contenu, rétention, tracking et Shopify.",
+  "version": "0.3.0",
+  "description": "17 skills marketing : contexte client, positionnement, ads (créa, Meta, TikTok, budget gaspillé), réseaux sociaux, montage vidéo et sous-titres, GEO, CRO, copywriting, contenu, rétention, tracking, Shopify, et recherche de nouveaux skills.",
   "author": {
     "name": "Christopher Van Dongen"
   },

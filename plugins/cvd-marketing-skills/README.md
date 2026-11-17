@@ -1,6 +1,6 @@
 # CVD Marketing Skills
 
-Sélection de 16 skills marketing open source (licence MIT), regroupés en un seul plug-in.
+Sélection de 17 skills marketing open source (licence MIT), regroupés en un seul plug-in.
 
 | Skill | Rôle | Source |
 |---|---|---|
@@ -20,6 +20,7 @@ Sélection de 16 skills marketing open source (licence MIT), regroupés en un se
 | tiktok-ads | TikTok Ads : campagnes, créa, Spark Ads, mesure | thatrebeccarae/claude-marketing |
 | claude-video-edit | Montage FFmpeg : couper, assembler, recadrer, vitesse, overlays, étalonnage | AgriciDaniel/claude-video |
 | claude-video-caption | Transcription et sous-titres animés (SRT, karaoké, incrustation) | AgriciDaniel/claude-video |
+| cvd-find-skills | Trouve, évalue et ajoute de nouveaux skills à cette bibliothèque (skill maison, adapté de vercel-labs/skills) | CVD Digital |
 
 
 Licences d'origine : voir les fichiers LICENSE-* à la racine.

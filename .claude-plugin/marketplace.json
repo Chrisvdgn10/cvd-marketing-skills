@@ -5,14 +5,14 @@
   },
   "metadata": {
     "description": "Bibliothèque de skills marketing de CVD Digital",
-    "version": "0.1.0"
+    "version": "0.3.0"
   },
   "plugins": [
     {
       "name": "cvd-marketing-skills",
       "source": "./plugins/cvd-marketing-skills",
-      "description": "16 skills marketing sélectionnés : contexte client, positionnement, ads (créa, Meta, TikTok, budget gaspillé), réseaux sociaux, montage vidéo et sous-titres, GEO, CRO, copywriting, contenu, rétention, tracking et Shopify.",
-      "version": "0.2.0",
+      "description": "17 skills marketing : contexte client, positionnement, ads (créa, Meta, TikTok, budget gaspillé), réseaux sociaux, montage vidéo et sous-titres, GEO, CRO, copywriting, contenu, rétention, tracking, Shopify, et recherche de nouveaux skills.",
+      "version": "0.3.0",
       "category": "marketing"
     }
   ]

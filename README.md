@@ -33,6 +33,7 @@ Dans Claude Code :
 | tiktok-ads | TikTok Ads : campagnes, créa, Spark Ads, mesure | thatrebeccarae/claude-marketing |
 | claude-video-edit | Montage FFmpeg : couper, assembler, recadrer, vitesse, overlays, étalonnage | AgriciDaniel/claude-video |
 | claude-video-caption | Transcription et sous-titres animés (SRT, karaoké, incrustation) | AgriciDaniel/claude-video |
+| cvd-find-skills | Trouve, évalue et ajoute de nouveaux skills à cette bibliothèque (skill maison, adapté de vercel-labs/skills) | CVD Digital |
 
 Tous les skills sont sous licence MIT (voir `plugins/cvd-marketing-skills/LICENSE-*`).
 
