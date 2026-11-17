@@ -6,7 +6,12 @@ ai-seo|coreyhaines31/marketingskills|skills/ai-seo
 cro|coreyhaines31/marketingskills|skills/cro
 copywriting|coreyhaines31/marketingskills|skills/copywriting
 content-creator|thatrebeccarae/claude-marketing|skills/content-creator
-klaviyo-analyst|thatrebeccarae/claude-marketing|skills/klaviyo-analyst
 retention-churn-prevention|thatrebeccarae/claude-marketing|skills/retention-churn-prevention
 utm-attribution-strategy|thatrebeccarae/claude-marketing|skills/utm-attribution-strategy
 shopify|thatrebeccarae/claude-marketing|skills/shopify
+social|coreyhaines31/marketingskills|skills/social
+ad-creative|coreyhaines31/marketingskills|skills/ad-creative
+facebook-ads|thatrebeccarae/claude-marketing|skills/facebook-ads
+tiktok-ads|thatrebeccarae/claude-marketing|skills/tiktok-ads
+claude-video-edit|AgriciDaniel/claude-video|skills/video-edit
+claude-video-caption|AgriciDaniel/claude-video|skills/video-caption

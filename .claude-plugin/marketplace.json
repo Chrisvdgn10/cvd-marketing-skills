@@ -11,8 +11,8 @@
     {
       "name": "cvd-marketing-skills",
       "source": "./plugins/cvd-marketing-skills",
-      "description": "11 skills marketing sélectionnés : contexte client, positionnement, ads, GEO, CRO, copywriting, contenu, email, rétention, tracking et Shopify.",
-      "version": "0.1.0",
+      "description": "16 skills marketing sélectionnés : contexte client, positionnement, ads (créa, Meta, TikTok, budget gaspillé), réseaux sociaux, montage vidéo et sous-titres, GEO, CRO, copywriting, contenu, rétention, tracking et Shopify.",
+      "version": "0.2.0",
       "category": "marketing"
     }
   ]

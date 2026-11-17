@@ -1,10 +1,18 @@
 {
   "name": "cvd-marketing-skills",
-  "version": "0.1.0",
-  "description": "11 skills marketing sélectionnés pour CVD Digital : contexte client, positionnement, ads, GEO, CRO, copywriting, contenu, email, rétention, tracking et Shopify.",
+  "version": "0.2.0",
+  "description": "16 skills marketing sélectionnés : contexte client, positionnement, ads (créa, Meta, TikTok, budget gaspillé), réseaux sociaux, montage vidéo et sous-titres, GEO, CRO, copywriting, contenu, rétention, tracking et Shopify.",
   "author": {
     "name": "Christopher Van Dongen"
   },
   "license": "MIT",
-  "keywords": ["marketing", "strategie", "ads", "seo", "cro", "ecommerce", "shopify"]
+  "keywords": [
+    "marketing",
+    "strategie",
+    "ads",
+    "seo",
+    "cro",
+    "ecommerce",
+    "shopify"
+  ]
 }

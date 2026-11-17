@@ -1,5 +1,4 @@
-# Klaviyo Analyst Skill Dependencies
+# Meta Ads skill dependencies
 # Install with: pip install -r requirements.txt
-
-klaviyo-api>=9.0.0,<23.0.0
+facebook-business>=19.0.0,<21.0.0
 python-dotenv>=1.0.0,<2.0.0

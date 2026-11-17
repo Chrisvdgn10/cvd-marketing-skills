@@ -24,10 +24,15 @@ Dans Claude Code :
 | cro | Optimisation de la conversion | coreyhaines31/marketingskills |
 | copywriting | Textes de pages et d'ads | coreyhaines31/marketingskills |
 | content-creator | Calendrier éditorial et réseaux sociaux | thatrebeccarae/claude-marketing |
-| klaviyo-analyst | Audit email / Klaviyo | thatrebeccarae/claude-marketing |
 | retention-churn-prevention | Rétention et reconquête | thatrebeccarae/claude-marketing |
 | utm-attribution-strategy | UTM, attribution, GA4 | thatrebeccarae/claude-marketing |
 | shopify | Funnel et tracking Shopify | thatrebeccarae/claude-marketing |
+| social | Contenu organique : posts, calendrier, scripts vidéo courts, recyclage | coreyhaines31/marketingskills |
+| ad-creative | Créations publicitaires : accroches, variantes, formats Meta/Google/TikTok/LinkedIn | coreyhaines31/marketingskills |
+| facebook-ads | Meta Ads : audit, audiences, stratégie créative, pixel, CAPI | thatrebeccarae/claude-marketing |
+| tiktok-ads | TikTok Ads : campagnes, créa, Spark Ads, mesure | thatrebeccarae/claude-marketing |
+| claude-video-edit | Montage FFmpeg : couper, assembler, recadrer, vitesse, overlays, étalonnage | AgriciDaniel/claude-video |
+| claude-video-caption | Transcription et sous-titres animés (SRT, karaoké, incrustation) | AgriciDaniel/claude-video |
 
 Tous les skills sont sous licence MIT (voir `plugins/cvd-marketing-skills/LICENSE-*`).
 
