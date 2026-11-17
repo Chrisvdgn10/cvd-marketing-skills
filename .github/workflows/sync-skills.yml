@@ -1,0 +1,38 @@
+name: Mise à jour des skills
+
+on:
+  schedule:
+    - cron: "17 6 1 * *"   # le 1er de chaque mois
+  workflow_dispatch:        # bouton "Run workflow" pour lancer à la main
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Récupérer les dernières versions des skills
+        id: sync
+        run: |
+          set +e
+          python3 scripts/sync_skills.py | tee sync.log
+          echo "code=${PIPESTATUS[0]}" >> "$GITHUB_OUTPUT"
+
+      - name: Proposer les changements pour validation
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: maj-skills
+          commit-message: "Mise à jour des skills depuis les repos d'origine"
+          title: "Mise à jour mensuelle des skills"
+          body-path: sync.log
+          add-paths: |
+            plugins/**
+            .claude-plugin/marketplace.json

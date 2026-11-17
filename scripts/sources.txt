@@ -1,0 +1,12 @@
+# skill | repo GitHub d'origine | chemin du skill dans ce repo
+product-marketing|coreyhaines31/marketingskills|skills/product-marketing
+marketing-strategy-pmm|alirezarezvani/claude-skills|marketing-skill/skills/marketing-strategy-pmm
+wasted-spend-finder|thatrebeccarae/claude-marketing|skills/wasted-spend-finder
+ai-seo|coreyhaines31/marketingskills|skills/ai-seo
+cro|coreyhaines31/marketingskills|skills/cro
+copywriting|coreyhaines31/marketingskills|skills/copywriting
+content-creator|thatrebeccarae/claude-marketing|skills/content-creator
+klaviyo-analyst|thatrebeccarae/claude-marketing|skills/klaviyo-analyst
+retention-churn-prevention|thatrebeccarae/claude-marketing|skills/retention-churn-prevention
+utm-attribution-strategy|thatrebeccarae/claude-marketing|skills/utm-attribution-strategy
+shopify|thatrebeccarae/claude-marketing|skills/shopify

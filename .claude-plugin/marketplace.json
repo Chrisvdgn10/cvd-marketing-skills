@@ -1,0 +1,19 @@
+{
+  "name": "cvd-marketing",
+  "owner": {
+    "name": "CVD Digital"
+  },
+  "metadata": {
+    "description": "Bibliothèque de skills marketing de CVD Digital",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "cvd-marketing-skills",
+      "source": "./plugins/cvd-marketing-skills",
+      "description": "11 skills marketing sélectionnés : contexte client, positionnement, ads, GEO, CRO, copywriting, contenu, email, rétention, tracking et Shopify.",
+      "version": "0.1.0",
+      "category": "marketing"
+    }
+  ]
+}
